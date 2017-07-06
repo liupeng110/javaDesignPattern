@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0cb9e65d92af7a2dea1fdc8e2bc581731a33858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1662a4604db9b70b1aa5536b52163e438362a9f">
+        <dex dex="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1075b61170af01d4b7c7f886e2ae00bdf626316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\anzhuang\studio\an\gradle\gradle-3.3\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_d93e80cc3738d2c2ebbc029219601f2fc5dce8d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4c12b2144b144d159a6cdde5578ae4cd3ea2c795\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="G:\work\apps\DesignPattern-APP\DesignPattern-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd914286bd4be7742d809d0cb40b67f6c64def18\classes.dex" />
+    </item>
+
+</items>

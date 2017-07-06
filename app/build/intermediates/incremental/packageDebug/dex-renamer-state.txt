@@ -1,0 +1,7 @@
+#Thu Jul 06 16:49:54 CST 2017
+base.0=G\:\\work\\apps\\DesignPattern-APP\\DesignPattern-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1075b61170af01d4b7c7f886e2ae00bdf626316
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\work\\apps\\DesignPattern-APP\\DesignPattern-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0cb9e65d92af7a2dea1fdc8e2bc581731a33858\\classes.dex
+base.1=G\:\\work\\apps\\DesignPattern-APP\\DesignPattern-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0cb9e65d92af7a2dea1fdc8e2bc581731a33858
+file.0=G\:\\work\\apps\\DesignPattern-APP\\DesignPattern-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1075b61170af01d4b7c7f886e2ae00bdf626316\\classes.dex
